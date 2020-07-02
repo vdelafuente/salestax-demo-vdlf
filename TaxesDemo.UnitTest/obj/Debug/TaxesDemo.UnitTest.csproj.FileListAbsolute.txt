@@ -1,0 +1,17 @@
+C:\repos\TaxesDemo\salestax-demo-vdlf\TaxesDemo.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\repos\TaxesDemo\salestax-demo-vdlf\TaxesDemo.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\repos\TaxesDemo\salestax-demo-vdlf\TaxesDemo.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\repos\TaxesDemo\salestax-demo-vdlf\TaxesDemo.UnitTest\bin\Debug\basket.json
+C:\repos\TaxesDemo\salestax-demo-vdlf\TaxesDemo.UnitTest\bin\Debug\TaxesDemo.UnitTest.dll
+C:\repos\TaxesDemo\salestax-demo-vdlf\TaxesDemo.UnitTest\bin\Debug\TaxesDemo.UnitTest.pdb
+C:\repos\TaxesDemo\salestax-demo-vdlf\TaxesDemo.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\repos\TaxesDemo\salestax-demo-vdlf\TaxesDemo.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\repos\TaxesDemo\salestax-demo-vdlf\TaxesDemo.UnitTest\bin\Debug\Newtonsoft.Json.dll
+C:\repos\TaxesDemo\salestax-demo-vdlf\TaxesDemo.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\repos\TaxesDemo\salestax-demo-vdlf\TaxesDemo.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\repos\TaxesDemo\salestax-demo-vdlf\TaxesDemo.UnitTest\bin\Debug\Newtonsoft.Json.xml
+C:\repos\TaxesDemo\salestax-demo-vdlf\TaxesDemo.UnitTest\obj\Debug\TaxesDemo.UnitTest.csprojAssemblyReference.cache
+C:\repos\TaxesDemo\salestax-demo-vdlf\TaxesDemo.UnitTest\obj\Debug\TaxesDemo.UnitTest.csproj.CoreCompileInputs.cache
+C:\repos\TaxesDemo\salestax-demo-vdlf\TaxesDemo.UnitTest\obj\Debug\TaxesDemo.UnitTest.csproj.CopyComplete
+C:\repos\TaxesDemo\salestax-demo-vdlf\TaxesDemo.UnitTest\obj\Debug\TaxesDemo.UnitTest.dll
+C:\repos\TaxesDemo\salestax-demo-vdlf\TaxesDemo.UnitTest\obj\Debug\TaxesDemo.UnitTest.pdb
