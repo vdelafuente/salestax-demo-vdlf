@@ -1,0 +1,71 @@
+[
+  {
+    "BasketId": 1,
+    "Products": [
+      {
+        "Imported": false,
+        "Name": "Book",
+        "Price": 12.49,
+        "Taxable": false
+      },
+      {
+        "Imported": false,
+        "Name": "Music CD",
+        "Price": 14.99,
+        "Taxable": true
+      },
+      {
+        "Imported": false,
+        "Name": "Chocolate Bar",
+        "Price": 0.85,
+        "Taxable": false
+      }
+    ]
+  },
+  {
+    "BasketId": 2,
+    "Products": [
+      {
+        "Imported": true,
+        "Name": "Imported Box of Chocolates",
+        "Price": 10.00,
+        "Taxable": false
+      },
+      {
+        "Imported": true,
+        "Name": "Imported Bottle of Perfume",
+        "Price": 47.50,
+        "Taxable": true
+      }
+    ]
+  },
+  {
+    "BasketId": 3,
+    "Products": [
+      {
+        "Imported": true,
+        "Name": "Imported Bottle of Perfume",
+        "Price": 27.99,
+        "Taxable": true
+      },
+      {
+        "Imported": false,
+        "Name": "Bottle of Perfume",
+        "Price": 18.99,
+        "Taxable": true
+      },
+      {
+        "Imported": false,
+        "Name": "Packet of Headache Pills",
+        "Price": 9.75,
+        "Taxable": false
+      },
+      {
+        "Imported": true,
+        "Name": "Box of Imported Chocolates",
+        "Price": 11.25,
+        "Taxable": false
+      }
+    ]
+  }
+]
